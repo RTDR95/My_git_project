@@ -7,5 +7,7 @@ int main(){
     cout << "How are you?" << endl;
     cout << "Where are you from?" << endl;
     cout << "My name is Russell!" << endl;
+    
+    cout << "These are new adjustments" << endl;
     return 0;
 }
